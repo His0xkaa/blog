@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "User1 | OSINT - Psychology"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Welcome to my insights.. about IT and alot more "
+
+[author]
+name = "user1"
+image = "images.jpg"
+headline = "Doing the things I like... Always learn, never stop exploring ideas."
+links = [ { github = "https://github.com/His0xkaa" } ]
