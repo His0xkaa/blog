@@ -1,12 +1,12 @@
-colorScheme = "Neon"
+colorScheme = "princess"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
-defaultFeaturedImage = "image.png"
-defaultBackgroundImage = "image.png"
+defaultFeaturedImage = "articles.png"
+defaultBackgroundImage = "image.jpg"
 highlightCurrentMenuArea = "Enable"
 
 [header]
@@ -37,7 +37,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = "Hide"
+showHero = "Show"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false

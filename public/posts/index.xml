@@ -9,31 +9,11 @@
     <copyright>© 2024 user1</copyright>
     <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>osint</title>
-      <link>http://localhost:1313/posts/1712494899582-osint/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/1712494899582-osint/</guid>
-      <description>an example to get you started</description>
-      
-    </item>
-    
-    <item>
       <title>OSINT basics</title>
       <link>http://localhost:1313/posts/1712496522135-osint-basics/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/1712496522135-osint-basics/</guid>
-      <description>an example to get you started</description>
-      
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://localhost:1313/posts/1712497218905-test/</link>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/1712497218905-test/</guid>
       <description>an example to get you started</description>
       
     </item>
