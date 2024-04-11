@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://his0xkaa.github.io/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

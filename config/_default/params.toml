@@ -1,12 +1,12 @@
-colorScheme = "princess"
+colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
-defaultFeaturedImage = "articles.png"
-defaultBackgroundImage = "image.jpg"
+defaultFeaturedImage = "dark-cat-rosewater.png"
+defaultBackgroundImage = "dark-cat-rosewater.png"
 highlightCurrentMenuArea = "Enable"
 
 [header]
@@ -20,7 +20,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "basic"
 showRecent = "Enable"
 showRecentItems = 5
 showMoreLink = false
