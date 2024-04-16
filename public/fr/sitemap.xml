@@ -3,20 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/1712496522135-osint-basics/</loc>
-    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/1713281632734-test/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/1713305728024-pizza/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
