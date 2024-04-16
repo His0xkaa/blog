@@ -5,8 +5,8 @@ enableSearch = true
 enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
-defaultFeaturedImage = "dark-cat-rosewater.png"
-defaultBackgroundImage = "dark-cat-rosewater.png"
+defaultFeaturedImage = "articles.png"
+defaultBackgroundImage = "articles.png"
 highlightCurrentMenuArea = "Enable"
 
 [header]
@@ -28,7 +28,7 @@ showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
-homepageImage = "image.png"
+homepageImage = "articles.png"
 
 [article]
 showDate = true
@@ -37,7 +37,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = "Show"
+showHero = "Hide"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -56,7 +56,7 @@ showWordCount = true
 showZenMode = false
 
 [list]
-showHero = "hide"
+showHero = "Hide"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -66,7 +66,7 @@ showLikes = false
 showTableOfContents = "Show"
 showCards = ""
 groupByYear = true
-cardView = "Enable"
+cardView = "Disable"
 cardViewScreenWidth = false
 constrainItemsWidth = false
 heroStyle = ""
