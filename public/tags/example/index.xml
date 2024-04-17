@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/1713305728024-pizza/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1713305728024-pizza/featured.png" />
+      
     </item>
     
   </channel>

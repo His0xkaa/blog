@@ -14,8 +14,8 @@
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/1713281632734-test/</guid>
-      <description>La prise de note point de depart de notre pensée, apprendre a écrire c&amp;rsquo;est apprendre a pensé.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1713281632734-test/featured.png" />
+      <description>La prise de note point de depart de notre pensée, apprendre a écrire c&amp;rsquo;est apprendre a penser.</description>
+      
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/1713305728024-pizza/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1713305728024-pizza/featured.png" />
+      
     </item>
     
   </channel>
