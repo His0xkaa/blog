@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on User1 | OSINT - Psychologie</title>
-    <link>http://localhost:1313/tags/tag/</link>
+    <link>http://localhost:43261/tags/tag/</link>
     <description>Recent content in Tag on User1 | OSINT - Psychologie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2024 user1</copyright>
-    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43261/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pizza</title>
-      <link>http://localhost:1313/posts/1713305728024-pizza/</link>
+      <link>http://localhost:43261/posts/1713305728024-pizza/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/1713305728024-pizza/</guid>
+      <guid>http://localhost:43261/posts/1713305728024-pizza/</guid>
       <description>an example to get you started</description>
       
     </item>
