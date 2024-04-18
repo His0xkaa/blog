@@ -9,7 +9,7 @@ tags: ["productiviy", "note-taking"]
 *La prise de notes, point de départ de notre pensée : apprendre à écrire, c'est apprendre à penser.*
 ## Pourquoi prendre des notes ?
 
-En effet, pourquoi commencer par la productivité dans le cadre de cette série qui couvrira un large spectre de sujets ? Nous pourrions immédiatement penser au pomodoro, à la méthode GTD, à "eat the frog" ou à d'autres animaux ou fruits qui donnent leur nom à des solutions miracles pour vous inciter à travailler et devenir l'employé du mois. Vous l'avez certainement compris, la réponse ne réside pas uniquement dans ces méthodes, même si elles peuvent être utiles.
+En effet, pourquoi commencer par la prise de note dans le cadre de cette série qui couvrira un large spectre de sujets ? Nous pourrions immédiatement penser au pomodoro, à la méthode GTD, à "eat the frog" ou à d'autres animaux ou fruits qui donnent leur nom à des solutions miracles pour vous inciter à travailler et devenir l'employé du mois. Vous l'avez certainement compris, la réponse ne réside pas uniquement dans ces méthodes, même si elles peuvent être utiles.
 
 Au lieu de cela, nous aborderons la relation entre la myéline et les oligodendrocytes, la neuroplasticité, le time-blocking et d'autres éléments concrets tant sur le plan chimique que biologique de notre cerveau. À la fin de cette série, vous aurez des clés en main pour vous dépasser dans les domaines qui ont du sens pour vous.
 
