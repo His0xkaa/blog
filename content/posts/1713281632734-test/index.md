@@ -37,34 +37,36 @@ A[L'encodage]-->B[Le stockage];
 B-->C[Le rappel]
 {{< /mermaid >}}
 
-*Étapes de la mémorisation*
+## Fonctionnement de la memoire 
 
-L'étape la plus importante de toutes est certainement l'encodage, car c'est à ce moment-là que notre cerveau va essayer d'interpréter les données brutes (le flux constant d'informations provenant de nos sens) et de les encoder en connaissances. Ce processus est très important car peu importe le nombre de rappels ou la quantité de stockage que votre cerveau accepte, la qualité de l'information va conditionner les deux autres.
+L'étape la plus importante parmi toutes est sûrement l'encodage, car c'est là que notre cerveau va essayer d'interpréter les données brutes (le flux constant d'informations de nos sens) et les encoder en connaissances. Ce processus est très important car peu importe le nombre de rappels ou la quantité de stockage que votre cerveau accepte, la qualité de l'information va conditionner les deux autres.
 
 La qualité de l'information repose uniquement sur l'encodage, qui conditionne directement la temporalité et la quantité de choses que nous pouvons retenir.
 
-Vous vous en doutez maintenant, nous avons établi que l'encodage était le facteur principal de la mémorisation dans ce chapitre "L'écriture permet de consolider la mémoire". Nous allons donc voir sans surprise que c'est par une prise de notes intelligente et délibérée que nous allons mémoriser des concepts complexes demandant un haut niveau d'abstraction.
+Vous pouvez vous en douter maintenant, nous avons établi que l'encodage était le facteur principal de la mémorisation dans ce chapitre "L'écriture permet de consolider la mémoire". Nous allons donc voir sans surprise que c'est par une prise de notes intelligente et délibérée que nous allons mémoriser des concepts complexes demandant un haut niveau d'abstraction.
 
-Parmi les méthodes les plus efficaces de prise de notes, on retrouve la méthode Cornell qui consiste à prendre des notes après la lecture d'un chapitre ou d'un concept, sous forme de questions. Par exemple, vous lisez un article ou un livre de psychologie qui traite du concept de "Social Proof" (preuve sociale). Faites le test avec moi, prenez un bout de papier ou ouvrez votre application préférée de prise de notes et prenez une note de la manière dont vous le souhaitez, faites réellement cet exercice.
+Dans les méthodes les plus efficaces de prise de note, on retrouve la méthode Cornell qui consiste à prendre des notes après la lecture d'un chapitre ou concept, sous la forme de question. Par exemple, vous lisez un article ou livre de psychologie qui traite du concept de "Social Proof" (preuve sociale). Faites le test avec moi, prenez un bout de papier ou ouvrez votre application favorite de prise de note et prenez une note de la manière dont vous le souhaitez, faites réellement cet exercice.
 
 **Définition** : La preuve sociale est un principe de psychologie sociale. Selon ce principe, un individu ne sachant quoi faire ou penser, aura tendance à adopter le comportement ou le point de vue d'autres personnes.
 
 **Citation** : « Habituellement, quand un grand nombre de personnes font quelque chose, nous comprenons que c'est la meilleure chose à faire. Cette vérification par les faits est à la fois la force et la faiblesse du principe de la preuve sociale. […] La preuve sociale représente un raccourci commode, mais elle rend en même temps celui qui l'emprunte vulnérable aux assauts des profiteurs embusqués sur le chemin. » — Robert Cialdini, Influence et Manipulation
 
-Avez-vous enfin pris note de la définition ainsi que de ce que vous pouviez en tirer ?
-attention, pas de triche
-Voici une liste non exhaustive des éléments de réponse que j'avais avant et que la plupart auront surtout pendant une prise de notes active où le professeur ou le patron parle en direct.
+Vous avez enfin pris en note la définition ainsi que ce que vous pouviez en tirer ?
+*attention, pas de triche*
+Voici une liste non exhaustive des éléments de réponse que j'avais avant et que la plupart auront surtout pendant une prise de note active ou le professeur ou patron parle en live.
 
 - Copier mot à mot l'intitulé (approche assez universitaire pendant une lecture/cours magistral)
 - Réduire le volume en extrayant l'essentiel
-- Faire un lien entre la définition et la citation "Comme nous l'explique Robert..."
+- Faire un lien entre la définition avec des phrases du type "Comme nous l'explique Robert..."
 
-Si votre approche est sensiblement similaire à l'une des trois évoquées ci-dessus, dites-vous que vous allez pouvoir améliorer votre prise de notes de manière drastique et durable juste avec cet article.
+Si votre approche est sensiblement similaire à l'une des trois évoquées ci-dessus, dites-vous que vous allez pouvoir améliorer votre prise de note de manière drastique et durable juste avec cet article.
 
 Avant de savoir comment mieux prendre des notes, il faut savoir comment en prendre de mauvaises. Typiquement, les 3 points évoqués ci-dessus sont une mauvaise approche car ils ne tiennent pas compte du fonctionnement de notre cerveau et du fameux problème d'encodage évoqué plus haut.
 
 Les points communs des méthodes citées précédemment sont nombreux, mais le plus criant est le suivant : vous avez pris des notes de mots qui restent ceux de l'auteur, vous avez accepté la vision de l'auteur comme vraie et pertinente en toute circonstance sans jamais la questionner. Vous commencez peut-être à voir la tournure du problème : comment intégrer pour le cerveau une donnée brute qui n'a aucune appartenance au système déjà en place ?
-### Schema de comprehension
+.
+
+### Encodage dans le cadre d'une lecture et prise de note active
 {{< mermaid >}}
 graph BT;
 A[Definition/Citation/Text]-->B[Comment ?];
@@ -82,8 +84,45 @@ when-->I[Reponse]
 H & I -->cont[Contexte]
 cont & repl & comp --> enco[L'encodage]
 {{< /mermaid >}}
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+
+Maintenant que vous avez une image des questions que vous pouvez vous poser, vous pouvez ouvrir un nouveau fichier texte ou prendre une nouvelle feuille pour tenter de se pencher à nouveau sur notre problème initial.
+
+Soit vous pouvez répondre directement avec la citation et la définition, soit vous passez dans la branche recherche.
+
+**Comment est déclenché le principe de preuve sociale ?**
+
+**Pourquoi le principe de preuve sociale existe-t-il ?**
+
+**Quand le principe de preuve sociale se déclenche-t-il ?**
+
+Suivez le graphique ci-dessus pour répondre à ces questions
+#### Comment est déclenché le principe de preuve sociale ?
+
+Il se déclenche par l'observation d'un comportement uniforme de la foule ou d'un groupe de personnes, de manière instinctive et survivaliste. Avoir une réaction qui n'aurait pas été motivée sans la manifestation de ce groupe dans notre environnement et à un niveau plus chimique, on sait que l'opposition à un avis majoritaire au sein d'un groupe fait monter le niveau de cortisol.
+#### Pourquoi le principe de preuve sociale existe-t-il ?
+
+Le principe existe pour des raisons anthropologiques et survivalistes, c'est-à-dire que d'un point de vue empirique, vous avez une espérance de gain supérieure à choisir de croire le groupe (une foule qui court en sortant du métro) plutôt que de le remettre en cause.
+
+Nous allons le voir tout au long de la série mais le cerveau est procrastinateur et non pas fainéant, il va donc essayer d'avoir les meilleurs résultats avec le moins d'effort possible, c'est là tout le but du mécanisme.
+#### Quand le principe de preuve sociale se déclenche-t-il ?
+
+Il se déclenche dans deux configurations précises :
+
+- Être dans une situation incertaine (restaurant que vous ne connaissez pas) avec vos supérieurs hiérarchiques
+- Le nombre (plus il est grand, plus le niveau de résistance des individus est bas)
+
+Si vous allez au restaurant avec vos supérieurs et que tout le monde commande la même chose et que vous passez en dernier, il se peut que vous ressentiez un certain malaise à l'idée de prendre autre chose, c'est car votre cerveau tente de vous persuader d'avoir une approche conformiste pour rester dans le moule.
+
+En faisant cet exercice, vous avez dû vous rendre compte que le concept était bien plus clair et facile à retenir et que votre compréhension en était fortement améliorée par rapport au système classique de synthétisation.
+
+Cela nous laisse entrevoir les résultats que l'on peut obtenir si l'on devient un excellent encodeur de données brutes. Maintenant que nous avons démontré ensemble que l'écriture délibérée permet :
+
+- une meilleure rétention,
+- une meilleure compréhension,
+- de réduire les efforts de mémorisation,
+- d'attacher du sens à ce que nous étudions,
+
+Maintenant que tout cela a ete dit nous pouvons passer a notre systeme robuste, simple, flexible et performant de prise de note.
+
+## Notre systeme
+
