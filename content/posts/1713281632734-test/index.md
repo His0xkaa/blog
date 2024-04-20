@@ -9,7 +9,7 @@ tags: ["productiviy", "note-taking"]
 *La prise de notes, point de départ de notre pensée : apprendre à écrire, c'est apprendre à penser.*
 ## Pourquoi prendre des notes ?
 
-En effet, pourquoi commencer par la prise de note dans le cadre de cette série qui couvrira un large spectre de sujets ? Nous pourrions immédiatement penser au pomodoro, à la méthode GTD, à "eat the frog" ou à d'autres animaux ou fruits qui donnent leur nom à des solutions miracles pour vous inciter à travailler et devenir l'employé du mois. Vous l'avez certainement compris, la réponse ne réside pas uniquement dans ces méthodes, même si elles peuvent être utiles.
+En effet, pourquoi commencer par la prise de note dans le cadre de cette série qui couvrira un large spectre de sujets ? Nous pourrions immédiatement penser au pomodoro, à la méthode Get Things Done, à "eat the frog" ou à d'autres animaux ou fruits qui donnent leur nom à des solutions miracles pour vous inciter à travailler et devenir l'employé du mois. Vous l'avez certainement compris, la réponse ne réside pas uniquement dans ces méthodes, même si elles peuvent être utiles.
 
 Au lieu de cela, nous aborderons la relation entre la myéline et les oligodendrocytes, la neuroplasticité, le time-blocking et d'autres éléments concrets tant sur le plan chimique que biologique de notre cerveau. À la fin de cette série, vous aurez des clés en main pour vous dépasser dans les domaines qui ont du sens pour vous.
 
@@ -68,7 +68,7 @@ Les points communs des méthodes citées précédemment sont nombreux, mais le p
 
 ### Encodage dans le cadre d'une lecture et prise de note active
 {{< mermaid >}}
-graph BT;
+graph TB;
 A[Definition/Citation/Text]-->B[Comment ?];
 B-->C[Recherche]
 B-->D[Reponse]
@@ -89,13 +89,17 @@ Maintenant que vous avez une image des questions que vous pouvez vous poser, vou
 
 Soit vous pouvez répondre directement avec la citation et la définition, soit vous passez dans la branche recherche.
 
-**Comment est déclenché le principe de preuve sociale ?**
+```
+Comment est déclenché le principe de preuve sociale ?
 
-**Pourquoi le principe de preuve sociale existe-t-il ?**
+Pourquoi le principe de preuve sociale existe-t-il ?
 
-**Quand le principe de preuve sociale se déclenche-t-il ?**
+Quand le principe de preuve sociale se déclenche-t-il ?
+```
+*Suivez le graphique ci-dessus pour répondre à ces questions*
 
-Suivez le graphique ci-dessus pour répondre à ces questions
+Maintenant, prenons le temps de repondre a ces questions une par une. Cela nous permettra de mieux comprendre ou j'essaie d'en venir avec cette notion 
+
 #### Comment est déclenché le principe de preuve sociale ?
 
 Il se déclenche par l'observation d'un comportement uniforme de la foule ou d'un groupe de personnes, de manière instinctive et survivaliste. Avoir une réaction qui n'aurait pas été motivée sans la manifestation de ce groupe dans notre environnement et à un niveau plus chimique, on sait que l'opposition à un avis majoritaire au sein d'un groupe fait monter le niveau de cortisol.
